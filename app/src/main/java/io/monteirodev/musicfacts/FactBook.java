@@ -6,7 +6,7 @@ public class FactBook {
 
     // Fields (Member Variables - Properties about the object
     private int mLastFactNumber = 0;
-    private String[] mFacts = {
+    public String[] mFacts = {
             "The chills you get when you listen to music, is mostly caused by the brain releasing dopamine while anticipating the peak moment of a song.",
             "There are few activities in life that utilizes the entire brain, and music is one of them.",
             "Playing music regularly will physically alter your brain structure.",
