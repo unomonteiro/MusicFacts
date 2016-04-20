@@ -87,9 +87,9 @@ public class MusicFactsActivity extends AppCompatActivity {
 
         mShowFactButton.setOnClickListener(listener);
 
-        //Toast example
-        Toast.makeText(MusicFactsActivity.this, "Toast example: Activity was created!", Toast.LENGTH_SHORT).show();
-        //Log example
-        Log.d(TAG,"We're logging from the onCreate() method");
+        // Toast example
+        // Toast.makeText(MusicFactsActivity.this, "Toast example: Activity was created!", Toast.LENGTH_SHORT).show();
+        // Log example
+        // Log.d(TAG,"We're logging from the onCreate() method");
     }
 }
